@@ -13,6 +13,6 @@ def key_for_min_value(name_hash)
         m_name = name
       end
     end
-    m_name
+    return m_name
   end
 end
